@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <?php
 require_once "authcontroller/Authcontroller.php";
 $name="";
@@ -46,7 +48,6 @@ if(isset($_POST["name"])&&isset($_POST["password"])){
     }
 
 ?>
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
