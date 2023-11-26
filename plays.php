@@ -71,31 +71,35 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/blog/Masrah_Masr.jpg" class="img-fluid" alt="">
                 <span class="post-date">December 12</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Dolorum optio tempore voluptas dignissimos cumque fuga qui quibusdam quia</h3>
+                <h3 class="post-title">مسرح مصر </h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">John Doe</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Politics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
                   </div>
                 </div>
 
                 <p>
-                  Similique neque nam consequuntur ad non maxime aliquam quas. Quibusdam animi praesentium. Aliquam et laboriosam eius aut nostrum quidem aliquid dicta.
+                هو برنامج كوميدي مصري تلفزيوني مبني على عروض المسرحية الكوميدية، يقوم بتقديمه فريق ممثلين مصريين مشهورين. يعتبر البرنامج من بين البرامج التلفزيونية الناجحة في مجال الكوميديا في مصر.
+
+                العروض تعتمد على مواضيع متنوعة تتناول الحياة اليومية والقضايا الاجتماعية بأسلوب فكاهي وساخر. يقوم الممثلون بتقديم مشاهد كوميدية تعبر عن العديد من الوضعيات والشخصيات المختلفة، ما يجعل البرنامج جذابًا للجمهور المصري.
+
+
                 </p>
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">120 EGP</span>
+                </a>
 
               </div>
 
@@ -106,31 +110,35 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-2.jpg" class="img-fluid" alt="">
-                <span class="post-date">March 19</span>
+                <img src="assets/img/blog/5.jpg" class="img-fluid" alt="">
+                <span class="post-date">December 30</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Nisi magni odit consequatur autem nulla dolorem</h3>
+                <h3 class="post-title"> أنستونا  </h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Julia Parker</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Economics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
                   </div>
                 </div>
 
                 <p>
-                  Incidunt voluptate sit temporibus aperiam. Quia vitae aut sint ullam quis illum voluptatum et. Quo libero rerum voluptatem pariatur nam.
-                </p>
+                كمسرحية "أنستونا" من إخراج خالد جلال وبطولة دنيا سمير غانم، ستُعرض في أوبرا جامعة مصر للعلوم والتكنولوجيا بمدينة 6 أكتوبر. المسرحية تتضمن 5 استعراضات غنائية بكلمات أيمن بهجت قمر وألحان عمرو مصطفى. يشارك في بطولتها بيومي فؤاد وسامي مغاوري، وتأليف كريم سامي وأحمد عبد الوهاب، وإنتاج محمد أحمد السبكي.
+               <br>
+               <br>
+               <br>
+               <br>
+              </p>
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">300 EGP</span>
+                </a>
 
               </div>
 
@@ -141,31 +149,39 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt="">
-                <span class="post-date">June 24</span>
+                <img src="assets/img/blog/1.jpg" class="img-fluid" alt="">
+                <span class="post-date">December 23</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Possimus soluta ut id suscipit ea ut. In quo quia et soluta libero sit sint.</h3>
+                <h3 class="post-title"> علاء الدين  </h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Maria Doe</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Sports</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
                   </div>
                 </div>
 
                 <p>
-                  Aut iste neque ut illum qui perspiciatis similique recusandae non. Fugit autem dolorem labore omnis et. Eum temporibus fugiat voluptate enim tenetur sunt omnis.
+                مسرحية "علاء الدين" للنجم أحمد عز، إنتاج شركة تذكرتى، تعود من جديد بتقنيات حديثة وإبهارية. المسرحية حققت نجاحًا كبيرًا في السابق وتُقدم تجربة فريدة باستخدام تقنيات تُستخدم لأول مرة في المسارح العربية.
+
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
                 </p>
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">400 EGP</span>
+                </a>
 
               </div>
 
@@ -176,31 +192,82 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-4.jpg" class="img-fluid" alt="">
-                <span class="post-date">August 05</span>
+                <img src="assets/img/blog/4.jpg" class="img-fluid" alt="">
+                <span class="post-date">December 25</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Non rem rerum nam cum quo minus. Dolor distinctio deleniti explicabo eius exercitationem.</h3>
+                <h3 class="post-title">كازينو بديعة  </h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Maria Doe</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Sports</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
                   </div>
                 </div>
 
                 <p>
-                  Aspernatur rerum perferendis et sint. Voluptates cupiditate voluptas atque quae. Rem veritatis rerum enim et autem. Saepe atque cum eligendi eaque iste omnis a qui.
+                "كازينو بديعة" هي مسرحية غنائية استعراضية كوميدية بطولة سمية الخشاب، أحمد فتحي، وإدوارد، من إخراج طارق الإبياري. العمل يجمع فريقًا نجمًا من الممثلين والكتّاب، ويقدم تجربة ترفيهية ممتعة تمزج بين الفكاهة والعناصر الغنائية.
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                
+                
+
+
+
                 </p>
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">350 EGP</span>
+                </a>
+
+              </div>
+
+            </div>
+          </div><!-- End post list item -->
+          <div class="col-xl-4 col-md-6">
+            <div class="post-item position-relative h-100">
+
+              <div class="post-img position-relative overflow-hidden">
+                <img src="assets/img/blog/3.jpg" class="img-fluid" alt="">
+                <span class="post-date">December 1</span>
+              </div>
+
+              <div class="post-content d-flex flex-column">
+
+                <h3 class="post-title"> ياما في الجراب يا حاوي  </h3>
+
+                <div class="meta d-flex align-items-center">
+                  <div class="d-flex align-items-center">
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
+                  </div>
+                </div>
+
+                <p>
+                "ياما في الجراب يا حاوى" هي مسرحية من إنتاج كايرو شو برئاسة منتصر النبراوي، بالتعاون مع تذكرتى. المسرحية مأخوذة عن رائعة بيرم التونسي والموسيقار أحمد صدقي "ليلة من ألف ليلة"، وتم تقديمها بإخراج مجدي الهواري باستخدام أحدث التقنيات. يشارك في بطولتها عدد كبير من النجوم، حيث يلتقون في هذا العمل للمرة الأولى، مما يعد تجربة فنية مميزة.
+
+                <br>
+                <br>
+                <br>
+                <br>
+
+                </p>
+
+                <hr>
+
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">250 EGP</span>
+                </a>
 
               </div>
 
@@ -211,82 +278,44 @@
             <div class="post-item position-relative h-100">
 
               <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-5.jpg" class="img-fluid" alt="">
-                <span class="post-date">September 17</span>
+                <img src="assets/img/blog/2.jpg" class="img-fluid" alt="">
+                <span class="post-date">December 22</span>
               </div>
 
               <div class="post-content d-flex flex-column">
 
-                <h3 class="post-title">Accusamus quaerat aliquam qui debitis facilis consequatur</h3>
+                <h3 class="post-title"> سيدتي الجميلة </h3>
 
                 <div class="meta d-flex align-items-center">
                   <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">John Parker</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Politics</span>
+                    <i class="bi bi-folder2"></i> <span class="ps-2">comedy</span>
                   </div>
                 </div>
 
                 <p>
-                  In itaque assumenda aliquam voluptatem qui temporibus iusto nisi quia. Autem vitae quas aperiam nesciunt mollitia tempora odio omnis. Ipsa odit sit ut amet necessitatibus. Quo ullam ut corrupti autem consequuntur totam dolorem.
+                "سيدتي الجميلة" مسرحية مقتبسة من عمل فني سابق لجورج برنارد شو، وتم تقديمها في عدة منصات من خلال العروض المسرحية والسينمائية. تأتي هذه المسرحية برؤية جديدة من إخراج حسن عبد السلام، مستلهمة من عالم الكاتب الراحل بهجت قمر. تدور أحداثها حول شخصية كمال الذي يبحث عن امرأة جميلة ليريها للملك، لكنه يُفاجأ بنشالة تُدعى "صدفة"، ويعجب بشخصيتها المتوحشة. يقرر أن يأخذها ليعلمها آداب الإتيكيت وكيفية التصرف مع الملك.
+
+
+
                 </p>
 
                 <hr>
 
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+                <a href="blog-details.html" class="readmore stretched-link">
+                 <span>Ticket know</span>  
+                 <i class="bi bi-arrow-right"></i>
+                 <span style="float: right; margin-left: 170px;">300 EGP</span>
+                </a>
 
               </div>
 
             </div>
           </div><!-- End post list item -->
-
-          <div class="col-xl-4 col-md-6">
-            <div class="post-item position-relative h-100">
-
-              <div class="post-img position-relative overflow-hidden">
-                <img src="assets/img/blog/blog-6.jpg" class="img-fluid" alt="">
-                <span class="post-date">December 07</span>
-              </div>
-
-              <div class="post-content d-flex flex-column">
-
-                <h3 class="post-title">Distinctio provident quibusdam numquam aperiam aut</h3>
-
-                <div class="meta d-flex align-items-center">
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-person"></i> <span class="ps-2">Julia White</span>
-                  </div>
-                  <span class="px-3 text-black-50">/</span>
-                  <div class="d-flex align-items-center">
-                    <i class="bi bi-folder2"></i> <span class="ps-2">Economics</span>
-                  </div>
-                </div>
-
-                <p>
-                  Expedita et temporibus eligendi enim molestiae est architecto praesentium dolores. Illo laboriosam officiis quis. Labore officia quia sit voluptatem nisi est dignissimos totam. Et voluptate et consectetur voluptatem id dolor magni impedit. Omnis dolores sit.
-                </p>
-
-                <hr>
-
-                <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
-
-              </div>
-
-            </div>
-          </div><!-- End post list item -->
+          
 
         </div><!-- End blog posts list -->
 
-        <div class="blog-pagination">
-          <ul class="justify-content-center">
-            <li><a href="#">1</a></li>
-            <li class="active"><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-          </ul>
-        </div><!-- End blog pagination -->
-
+        
       </div>
     </section><!-- End Blog Section -->
 
